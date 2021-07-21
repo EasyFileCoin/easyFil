@@ -1,8 +1,10 @@
-# go-fil-markets
+# eazyFil
 [![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](http://ipn.io)
 [![CircleCI](https://circleci.com/gh/filecoin-project/go-fil-markets.svg?style=svg)](https://circleci.com/gh/filecoin-project/go-fil-markets)
 [![codecov](https://codecov.io/gh/filecoin-project/go-fil-markets/branch/master/graph/badge.svg)](https://codecov.io/gh/filecoin-project/go-fil-markets)
 [![GoDoc](https://godoc.org/github.com/filecoin-project/go-fil-markets?status.svg)](https://godoc.org/github.com/filecoin-project/go-fil-markets)
+
+eazyFil is used to solve the technical difficulties encountered in Fil mining, calculate the optimal algorithm through big data analysis, and provide disaster recovery backup of IDC machine room and fil currency pledge, so as to generate stable high income. Users only need to pay a certain amount of usdt to generate fixed investment income, and do not need to bear any risk in mining.
 
 This repository contains modular implementations of the [storage and retrieval market subsystems](https://filecoin-project.github.io/specs/#systems__filecoin_markets) of Filecoin. 
 They are guided by the [v1.0 and 1.1 Filecoin specification updates](https://filecoin-project.github.io/specs/#intro__changelog). 
